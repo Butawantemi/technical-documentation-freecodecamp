@@ -77,5 +77,8 @@ ul {
       height: auto;
     }
   
-    
+    #main-doc {
+      margin-left: 0;
+      padding: 1rem;
+    }
   }
