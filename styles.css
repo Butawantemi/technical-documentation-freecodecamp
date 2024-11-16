@@ -72,13 +72,13 @@ ul {
 
 @media screen and (max-width: 768px) {
     #navbar {
-      position: relative;
-      width: 100%;
-      height: auto;
+        position: relative;
+        width: 100%;
+        height: auto;
     }
-  
+
     #main-doc {
-      margin-left: 0;
-      padding: 1rem;
+        margin-left: 0;
+        padding: 1rem;
     }
-  }
+}
