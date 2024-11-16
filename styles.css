@@ -65,3 +65,7 @@ code {
     color: #333;
     font-family: "Courier New", Courier, monospace;
 }
+
+ul {
+    padding-left: 20px;
+  }
