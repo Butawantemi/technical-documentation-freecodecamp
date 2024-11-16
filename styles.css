@@ -33,3 +33,9 @@ body {
     color: #333;
     transition: color 0.3s;
 }
+
+.nav-link:hover {
+    color: #ffff;
+    background-color: #333;
+    
+  }
