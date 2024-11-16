@@ -40,3 +40,8 @@ body {
     padding: 5px;
     border-radius: 3px;
 }
+
+#main-doc {
+    margin-left: 22%;
+    padding: 2rem;
+  }
